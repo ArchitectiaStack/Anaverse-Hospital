@@ -5,7 +5,7 @@ export const SERVICES: Service[] = [
     id: '1',
     title: 'Specialist Polyclinic',
     description: 'Comprehensive outpatient care led by senior specialists in cardiology, pediatrics, neurology, and more.',
-    image: 'https://images.unsplash.com/photo-1579684389782-64d84b5e901a?q=80&w=400&auto=format&fit=crop',
+    image: 'https://i.ibb.co/HpqtTBgm/How-to-Ease-Sciatic-Nerve-Pain.jpg',
     iconName: 'Stethoscope'
   },
   {
@@ -19,7 +19,7 @@ export const SERVICES: Service[] = [
     id: '3',
     title: '24/7 Emergency Unit',
     description: 'Immediate medical intervention for life-threatening cases with on-call trauma surgeons.',
-    image: 'https://images.unsplash.com/photo-1583324113626-70df0f4deaab?q=80&w=400&auto=format&fit=crop',
+    image: 'https://i.ibb.co/TxNyPFnM/Free-Sterile-Hospital-Hallway-Image-Hospital-Hallway-Sterile-Download-at-Stock-Cake.jpg',
     iconName: 'AlertCircle'
   },
   {
@@ -33,7 +33,7 @@ export const SERVICES: Service[] = [
     id: '5',
     title: 'Clinical Laboratory',
     description: 'Accredited clinical and pathology laboratory providing highly accurate diagnostic results.',
-    image: 'https://images.unsplash.com/photo-1579154204601-01588f35116f?q=80&w=400&auto=format&fit=crop',
+    image: 'https://i.ibb.co/rfQFKsQB/download-3.jpg" alt="download-3',
     iconName: 'FlaskConical'
   },
   {
@@ -63,7 +63,7 @@ export const DOCTORS: Doctor[] = [
     specialty: 'Pediatric Specialist',
     rating: 4.8,
     reviewsCount: 210,
-    image: 'https://images.unsplash.com/photo-1594824813573-246434de83fb?q=80&w=400&auto=format&fit=crop',
+    image: 'https://i.ibb.co/wFpH88CH/Retrato-confiante-jovem-m-dica-feminina-em-um-fundo-branco-gerado-por-IA-imagem-Premium-gerada-com.jpg',
     available: true,
     schedule: 'Tue, Thu, Sat (10:00 - 15:00)',
     experience: '8 years'
@@ -107,7 +107,7 @@ export const FACILITIES: Facility[] = [
   {
     id: 'f1',
     name: 'Intensive Care Unit (ICU)',
-    image: 'https://images.unsplash.com/photo-1586773860418-d37222d8fce8?q=80&w=800&auto=format&fit=crop'
+    image: 'https://i.ibb.co/RpRQTNYB/Intensivstation-aesthetic.jpg'
   },
   {
     id: 'f2',
@@ -117,17 +117,17 @@ export const FACILITIES: Facility[] = [
   {
     id: 'f3',
     name: 'Modern Surgical Suite',
-    image: 'https://images.unsplash.com/photo-1516613993176-859a78e517ef?q=80&w=800&auto=format&fit=crop'
+    image: 'https://i.ibb.co/nK29s22/download-4.jpg'
   },
   {
     id: 'f4',
     name: 'Advanced Research Lab',
-    image: 'https://images.unsplash.com/photo-1530026405186-ed1ea0ac7a63?q=80&w=800&auto=format&fit=crop'
+    image: 'https://i.ibb.co/yc7x9LRZ/Supplement-Testing-Guide-Quality-Standards.jpg'
   },
   {
     id: 'f5',
     name: '24/7 Trauma Ambulance',
-    image: 'https://images.unsplash.com/photo-1587350859728-117622bc786e?q=80&w=800&auto=format&fit=crop'
+    image: 'https://i.ibb.co/1NNXkQW/Utah-Breaking-News-Top-Stories-Sports-World-US-Local.jpg"'
   }
 ];
 
@@ -146,7 +146,7 @@ export const ARTICLES: Article[] = [
     title: 'The Essential Guide to Pediatric Vaccination Schedules in 2026',
     category: 'Child Health',
     date: '15 May 2026',
-    image: 'https://images.unsplash.com/photo-1584515901407-d8f4247d59db?q=80&w=500&auto=format&fit=crop',
+    image: 'https://i.ibb.co/DDQnsZZX/Photo-by-Yunus-Tu-on-Unsplash.jpg',
     excerpt: 'Protect your little ones from preventable diseases. Review the updated, pediatrician-approved immunization timeline for toddlers and young children.',
     readTime: '4 min read'
   },

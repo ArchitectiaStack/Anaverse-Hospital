@@ -54,7 +54,7 @@ export default function AboutUs() {
               className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-slate-50 aspect-[4/5] bg-slate-100"
             >
               <img
-                src="https://images.unsplash.com/photo-1587350859728-117622bc786e?q=80&w=800"
+                src="https://i.ibb.co/8DK3njZq/Atenci-n-personalizada-para-tus-seres-queridos.jpg"
                 alt="Modern glass medical center building with clinical ambulance in front"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-700"
