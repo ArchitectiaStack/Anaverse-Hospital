@@ -1,0 +1,6 @@
+{
+  "name": "Anaverse Hospital",
+  "description": "A fully responsive, modern healthcare landing page for Anaverse Hospital featuring interactive online booking, services, and doctor profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
